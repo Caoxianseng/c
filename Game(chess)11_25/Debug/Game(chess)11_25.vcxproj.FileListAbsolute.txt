@@ -1,0 +1,2 @@
+E:\比特学习\比特课程回顾\c\Game(chess)11_25\Debug\Game(chess)11_25.exe
+E:\比特学习\比特课程回顾\c\Game(chess)11_25\Debug\Game(chess)11_25.pdb
