@@ -83,7 +83,6 @@ void computerMove(char chessBoard[ROW][COL]) {
 		chessBoard[row][col] = 'o';
 		break;
 	}
-
 }
 int isFull(char chessBoard[ROW][COL]) {
 	for (int row = 0; row < ROW; row++) {
@@ -180,3 +179,5 @@ int main() {
 		}
 	}
 }
+
+
