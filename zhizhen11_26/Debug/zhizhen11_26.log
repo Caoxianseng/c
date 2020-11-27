@@ -1,0 +1,7 @@
+﻿  Test.c
+E:\比特学习\比特课程回顾\c\zhizhen11_26\Test.c(21,1): warning C4047: “初始化”:“char *”与“int”的间接级别不同
+E:\比特学习\比特课程回顾\c\zhizhen11_26\Test.c(22,1): warning C4047: “初始化”:“char *”与“char **”的间接级别不同
+E:\比特学习\比特课程回顾\c\zhizhen11_26\Test.c(27,1): warning C4133: “初始化”: 从“int *”到“char *”的类型不兼容
+E:\比特学习\比特课程回顾\c\zhizhen11_26\Test.c(46,1): warning C4047: “初始化”:“double *”与“int”的间接级别不同
+E:\比特学习\比特课程回顾\c\zhizhen11_26\Test.c(4): warning C4172: 返回局部变量或临时变量的地址: a
+  zhizhen11_26.vcxproj -> E:\比特学习\比特课程回顾\c\zhizhen11_26\Debug\zhizhen11_26.exe
