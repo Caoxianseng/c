@@ -1,0 +1,4 @@
+﻿  Test.c
+E:\比特学习\比特课程回顾\c\datein11_27shujucunchu\Test.c(51,1): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\比特学习\比特课程回顾\c\datein11_27shujucunchu\Test.c(30): warning C4716: “ifBingOrSmall01”: 必须返回一个值
+  datein11_27shujucunchu.vcxproj -> E:\比特学习\比特课程回顾\c\datein11_27shujucunchu\Debug\datein11_27shujucunchu.exe
