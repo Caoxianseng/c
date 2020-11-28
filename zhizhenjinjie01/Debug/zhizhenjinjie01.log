@@ -1,0 +1,5 @@
+﻿  Test.c
+E:\比特学习\比特课程回顾\c\zhizhenjinjie01\Test.c(59): warning C4716: “test3”: 必须返回一个值
+E:\比特学习\比特课程回顾\c\zhizhenjinjie01\Test.c(62): warning C4716: “test4”: 必须返回一个值
+E:\比特学习\比特课程回顾\c\zhizhenjinjie01\Test.c(127): warning C4715: “less”: 不是所有的控件路径都返回值
+  zhizhenjinjie01.vcxproj -> E:\比特学习\比特课程回顾\c\zhizhenjinjie01\Debug\zhizhenjinjie01.exe
