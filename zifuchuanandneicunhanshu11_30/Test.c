@@ -116,8 +116,7 @@ const char* mystrstr(const char* dest, const char* source) {
 		const char* subptr = source;
 		//当前blackptr为开始
 		while(*redptr != '\0' && *subptr != '\0' && *redptr == *subptr) {
-			redptr++;
-			
+			redptr++;			
 			subptr++;
 		}
 		//三种结束结果
@@ -125,7 +124,7 @@ const char* mystrstr(const char* dest, const char* source) {
 		//2. *subptr != '\0',返回blackptr
 		//3.*redptr == *subptr也是blackptr++
 		if (*subptr == '\0') {
-			return blacker++;
+			return ((++blacker) - dest) ;
 		}
 		blacker++;
 	}
@@ -172,6 +171,9 @@ int main() {
 	int ret = strcmp(name8, name9);
 	//printf("%d", ret);
 
+	char name10[] = "hello worllol lloll";
+	char name11[] = "lloll";
+	printf("%d",mystrstr(name10, name11));
 
 	return 0;
 }

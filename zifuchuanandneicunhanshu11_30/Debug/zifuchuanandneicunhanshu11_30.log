@@ -1,3 +1,4 @@
 ﻿  Test.c
-E:\比特学习\比特课程回顾\c\zifuchuanandneicunhanshu11_30\Test.c(97): warning C4715: “mystrcmp”: 不是所有的控件路径都返回值
+E:\比特学习\比特课程回顾\c\zifuchuanandneicunhanshu11_30\Test.c(127,32): warning C4047: “return”:“const char *”与“int”的间接级别不同
+E:\比特学习\比特课程回顾\c\zifuchuanandneicunhanshu11_30\Test.c(176,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“const char *”
   zifuchuanandneicunhanshu11_30.vcxproj -> E:\比特学习\比特课程回顾\c\zifuchuanandneicunhanshu11_30\Debug\zifuchuanandneicunhanshu11_30.exe
